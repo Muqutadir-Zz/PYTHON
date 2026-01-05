@@ -1,4 +1,4 @@
-#function defination
+# function defination
 # def cal_sum(a,b) : #parameters
 #     return(a,b)
 
@@ -21,3 +21,27 @@
 
 # tpye()  , range()
 
+# cities = ["delhi", "mumbai", "hyd", "pune"]
+# heros = ["superman", "batman"]
+
+# def print_len(list) :
+#     print(len(list))
+
+# print_len(cities)
+# print_len(heros)
+
+# def cal_fact(n):
+#     fact = 1
+#     for i in range(1, n+2):
+#         fact *= i
+#         print(fact)
+
+# cal_fact(6)
+
+# def conveter(usd_value):
+#     inr_value = usd_value * 83
+#     print(usd_value, "USD =", inr_value, "INR")
+
+# conveter(73)
+
+# RECURSION
